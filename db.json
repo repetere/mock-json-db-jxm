@@ -1,4 +1,4 @@
 {
-  component:"div",
-  children:"from remote template"
+  "component":"div",
+  "children":"from remote template"
 }
