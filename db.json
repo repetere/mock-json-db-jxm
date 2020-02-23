@@ -1,4 +1,6 @@
-{
-  "component":"div",
-  "children":"from remote template"
+{ 
+  "template":{
+    "component":"div",
+    "children":"from remote template"
+  }
 }
